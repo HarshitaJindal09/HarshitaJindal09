@@ -16,8 +16,6 @@ Building real-world projects and continuously learning new technologies.
 
 🎓 B.Tech CSE Student at **Bennett University**
 
-🏆 Dean's List Awardee
-
 💡 Passionate about Artificial Intelligence, Machine Learning & Full Stack Development
 
 📚 Currently learning Data Structures & Algorithms and GitHub
