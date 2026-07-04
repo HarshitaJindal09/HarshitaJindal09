@@ -1,75 +1,131 @@
+<div align="center">
+
 # Hi 👋, I'm Harshita Jindal
 
-🎓 B.Tech CSE Student at Bennett University
+### 💻 Aspiring Software Developer | AI & Machine Learning Enthusiast | DSA Learner 🚀
 
-💻 Passionate about Data Structures & Algorithms, Machine Learning, and Full-Stack Development.
+<p>
+Building real-world projects and continuously learning new technologies.
+</p>
 
-🌱 Currently learning:
-- Data Structures & Algorithms
-- Machine Learning
-- Web Development
-- Git & GitHub
+</div>
+
+---
+
+## 🙋‍♀️ About Me
+
+🎓 B.Tech CSE Student at **Bennett University**
+
+🏆 Dean's List Awardee
+
+💡 Passionate about Artificial Intelligence, Machine Learning & Full Stack Development
+
+📚 Currently learning Data Structures & Algorithms and GitHub
+
+🌱 Building projects that solve real-world problems
+
+---
+
+## 💻 Tech Stack
+
+### 👨‍💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql" />
+</p>
+
+### ⚙️ Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,tensorflow,opencv,git,github" />
+</p>
+
+### 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,figma,postman" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 📈 Stock Analysis & Forecasting
-Built an LSTM-based model to predict stock prices using historical market data.
+> AI-powered stock price prediction using **LSTM**, Python, TensorFlow, Pandas, and Matplotlib.
+
+---
 
 ### 🤟 Sign Language Detection
-Developed an AI-powered real-time sign language detection system using Deep Learning.
+> Real-time Sign Language Detection using **Deep Learning**, OpenCV, TensorFlow, and MediaPipe.
+
+---
 
 ### 🧠 Mental Health Support Platform
-A web platform featuring journaling, chatbot support, NGO donations, doctor recommendations, and mental health resources.
+> A web platform providing:
+- 📝 Journal Writing
+- 🤖 AI Chatbot
+- ❤️ NGO Donations
+- 👨‍⚕️ Doctor Recommendations
+- 📚 Mental Health Resources
+
+---
 
 ### 🌐 Portfolio Website
-Personal portfolio showcasing my projects, skills, and achievements.
+> Personal portfolio showcasing projects, achievements, and technical skills.
 
 ---
 
-## 💻 Tech Stack
+## 📊 GitHub Stats
 
-**Languages**
+<p align="center">
 
-- Python
-- Java
-- JavaScript
-- HTML
-- CSS
-- SQL
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=HarshitaJindal09&show_icons=true&theme=tokyonight"/>
 
-**Libraries & Tools**
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitaJindal09&layout=compact&theme=tokyonight"/>
 
-- TensorFlow
-- Pandas
-- NumPy
-- Scikit-learn
-- OpenCV
-- Git
-- GitHub
+</p>
 
 ---
 
-## 🎯 Currently Working On
+## 🔥 GitHub Streak
 
-- Improving my Machine Learning skills
-- Solving DSA problems
-- Building real-world projects
-- Learning Open Source
+<p align="center">
 
----
+<img src="https://streak-stats.demolab.com?user=HarshitaJindal09&theme=tokyonight"/>
 
-## 📫 Connect With Me
-
-📧 Email: your-email@example.com
-
-💼 LinkedIn:
-https://linkedin.com/in/your-linkedin
-
-🌐 Portfolio:
-https://your-portfolio-link
+</p>
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 🌱 Currently Learning
+
+- 📚 Data Structures & Algorithms
+- 🤖 Machine Learning
+- 🌐 MERN Stack
+- ☁️ Git & GitHub
+- 💻 Open Source Contributions
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/harshita-jindal-80351428a/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="harshitajindal162@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ "Code • Learn • Build • Repeat"
+
+</div>
