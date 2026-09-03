@@ -2,50 +2,57 @@
 
 # ✦ HARSHITA JINDAL
 
-### `AI • FULL STACK • MACHINE LEARNING`
+### AI • FULL STACK • MACHINE LEARNING
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=22&duration=2800&pause=900&color=FF6B6B&center=true&vCenter=true&width=650&lines=Computer+Science+Undergraduate;Building+AI-powered+applications;Full+Stack+Developer;Machine+Learning+Enthusiast;Turning+ideas+into+working+products" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=FF6B8A&center=true&vCenter=true&width=720&lines=Computer+Science+Undergraduate;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Building+AI-powered+Applications;Turning+Ideas+Into+Products" />
 
 <br>
 
 <a href="YOUR_PORTFOLIO_LINK">
-<img src="https://img.shields.io/badge/%E2%9C%A6%20MY%20PORTFOLIO-FF6B6B?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-FF6B8A?style=for-the-badge"/>
 </a>
+
 <a href="https://github.com/HarshitaJindal09">
-<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/💻%20GITHUB-18181B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <a href="https://www.linkedin.com/in/harshitajindal1/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/💼%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:harshitajindal162@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-FFD166?style=for-the-badge&logo=gmail&logoColor=111827"/>
+<img src="https://img.shields.io/badge/✉️%20EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=header&text=BUILD.%20LEARN.%20SHIP.&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=70&color=gradient"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=FF6B8A"/>
 
 </div>
 
 ---
 
-# 👋 Hey, I'm Harshita
+# 👋 Hello, I'm Harshita
+
+I'm a **Computer Science undergraduate at Bennett University** passionate about building intelligent applications, full-stack systems and machine-learning solutions.
+
+My interests lie at the intersection of:
+
+> **Artificial Intelligence × Software Engineering × Problem Solving**
+
+I enjoy taking an idea from:
 
 ```text
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│  🎓  Computer Science Undergraduate                          │
-│      Bennett University                                      │
-│                                                              │
-│  🤖  Interested in Artificial Intelligence                    │
-│      Machine Learning & Generative AI                        │
-│                                                              │
-│  🌐  Building full-stack applications                        │
-│                                                              │
-│  🧩  500+ DSA problems solved                                │
-│                                                              │
-│  📝  Research paper accepted — Fake News Detection            │
-│                                                              │
-│  ⚡  Currently learning → building → experimenting            │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
+IDEA
+  ↓
+RESEARCH
+  ↓
+DESIGN
+  ↓
+BUILD
+  ↓
+DEBUG
+  ↓
+SHIP
+  ↓
+IMPROVE
